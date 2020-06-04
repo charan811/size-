@@ -1,0 +1,26 @@
+Size of char,int,float,double:
+
+#include<iostream>
+Using namespace std;
+Int main(){
+Cout<<"size of char:"<<sizeof(char)<<endl;
+Cout<<"size of int:"<<sizeof(int)<<endl;
+Cout<<"size of float:"<<sizeof(float)<<endl;
+Cout<<"size of double:"<<sizeof(double)<<endl;
+Return 0;
+}
+
+Product of two numbers:
+
+#include<iostream>
+Using namespace std;
+Int main(){
+Double a;
+Double b;
+Cin>>a;
+Cin>>b;
+Cout<<"product of two numbers:"<<a*b<<endl;
+Return 0;
+}
+
+
